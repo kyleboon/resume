@@ -6,9 +6,15 @@ Kyle Boon
 
 Experience
 ---------
+**Wayfair**, Remote
+
+Staff Software Engineer (June 2022 - Current)
+
+
+
 **Target**, Minneapolis MN
 
-Lead Software Engineer (April 2017 - Current)
+Lead Software Engineer (April 2017 - June 2022)
 
 - First team member on a new team to rebuild Target's Inventory Position and Control systems. 
 - Helped build a new warehousing operations system to make Target's supply chain more flexible and responsive. Specifically, I designed the task management system used by all employees in these warehouses as well as make significant contributions to inventory management, shipment manifests and order allocation components of the system.
