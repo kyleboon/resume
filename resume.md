@@ -10,6 +10,8 @@ Experience
 
 Staff Software Engineer (June 2022 - Current)
 
+- Lead design and implementation for our Sales customer master data management system which tracks 800 million customers worldwide.
+- Lead design and architecture across 9 teams to address Wayfair's larger technical transformation goals which include splitting functionality out of the monolith codebase and monolithic database and moving towards a microservices architecture. Specifically I help teams draw their bounded context out of existing structure of SQL tables and REST services and move them out of the monolith.
 
 
 **Target**, Minneapolis MN
@@ -75,7 +77,7 @@ Skills
 
 **Automation:** Gradle, Maven, Git, Vagrant, Jenkins, Ansible, CircleCI, Gitlab 
 
-**Infrastructure:** Kafka, MySql, Postgres, Cassandra, Heroku, AWS, Docker
+**Infrastructure:** Kafka, MySql, Postgres, Cassandra, Heroku, AWS, Docker, Google Cloud Services
 
 Education
 ---------
