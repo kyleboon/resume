@@ -2,6 +2,11 @@ Kyle Boon
 ======
 
 #### Software engineer specializing in distributed systems, mostly on the jvm
+
+With more than 20 years of experience in software engineering, I am passionate about designing and implementing scalable, reliable, and user-friendly solutions for complex business problems. I have a strong background in cloud computing, microservices, data management, and distributed systems, and I enjoy working with cutting-edge technologies and frameworks. Currently, I am a Staff Engineer at Wayfair, one of the world's largest online destinations for home furnishings and decor.
+
+At Wayfair, I lead the design and implementation for our Sales customer master data management system, which tracks 800 million customers worldwide. I also lead the design and architecture across 9 teams to address Wayfair's larger technical transformation goals, which include splitting functionality out of the monolith codebase and database and moving towards a microservices architecture. I use GCP, Java, Spring, Python to build and deploy robust and performant services that support Wayfair's fast-growing and diverse customer base. I also mentor and collaborate with other engineers, product managers, and stakeholders to ensure high-quality and timely delivery of features and enhancements.
+
 ###### [ [kyleboon.org](http://kyleboon.org) ] . [ kyle.f.boon@gmail.com ] 
 
 Experience
