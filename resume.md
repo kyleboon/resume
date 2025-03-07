@@ -1,13 +1,15 @@
 Kyle Boon
 ======
 
-#### Software engineer specializing in distributed systems, mostly on the jvm
+####
+
+Software engineer specializing in distributed systems, mostly on the jvm
 
 With more than 20 years of experience in software engineering, I am passionate about designing and implementing scalable, reliable, and user-friendly solutions for complex business problems. I have a strong background in cloud computing, microservices, data management, and distributed systems, and I enjoy working with cutting-edge technologies and frameworks. Currently, I am a Staff Engineer at Wayfair, one of the world's largest online destinations for home furnishings and decor.
 
 At Wayfair, I lead the design and implementation for our Sales customer master data management system, which tracks 800 million customers worldwide. I also lead the design and architecture across 9 teams to address Wayfair's larger technical transformation goals, which include splitting functionality out of the monolith codebase and database and moving towards a microservices architecture. I use GCP, Java, Spring, Python to build and deploy robust and performant services that support Wayfair's fast-growing and diverse customer base. I also mentor and collaborate with other engineers, product managers, and stakeholders to ensure high-quality and timely delivery of features and enhancements.
 
-###### [ [kyleboon.org](http://kyleboon.org) ] . [ kyle.f.boon@gmail.com ] 
+###### [ [kyleboon.org](http://kyleboon.org) ] . [ kyle.f.boon@gmail.com ]
 
 Experience
 ---------
@@ -23,7 +25,7 @@ Staff Software Engineer (June 2022 - Current)
 
 Lead Software Engineer (April 2017 - June 2022)
 
-- First team member on a new team to rebuild Target's Inventory Position and Control systems. 
+- First team member on a new team to rebuild Target's Inventory Position and Control systems.
 - Helped build a new warehousing operations system to make Target's supply chain more flexible and responsive. Specifically, I designed the task management system used by all employees in these warehouses as well as make significant contributions to inventory management, shipment manifests and order allocation components of the system.
 - Mentored college new hires as a part of the Target Leadership Program.
 - Interviewed college students for internship and new hire positions.
@@ -76,11 +78,11 @@ Software Developer (March 2005 to June 2006)
 
 Skills
 ------
-**Languages:** Kotlin, Java, Groovy, Python, Ruby, JavaScript, HTML, CSS, SQL 
+**Languages:** Kotlin, Java, Groovy, Python, Ruby, JavaScript, HTML, CSS, SQL
 
 **Frameworks:** Disruptor, Http4k, Ratpack, Grails, Dropwizard, Spring, Hibernate
 
-**Automation:** Gradle, Maven, Git, Vagrant, Jenkins, Ansible, CircleCI, Gitlab 
+**Automation:** Gradle, Maven, Git, Vagrant, Jenkins, Ansible, CircleCI, Gitlab
 
 **Infrastructure:** Kafka, MySql, Postgres, Cassandra, Heroku, AWS, Docker, Google Cloud Services
 
